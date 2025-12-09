@@ -1,6 +1,8 @@
 # Counter-Strike2-Market-Analyzer
 This project calculates the price of a trade-up for the knife you want.
 
+https://tuprd-my.sharepoint.com/:v:/g/personal/tuu65043_temple_edu/ERNT5owBALBFucuert_LtCcB9tlNzxnnFdBteF_IVJw_UQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PE2qTh
+
 After the CS2 update on October 23, 2025, there are now two ways to obtain a knife (the rarest item in the game). The first way is to pull it from a container (with a chance of less than 0.4%). The second way is to perform a trade-up using 5 Covert items. However, these items must come specifically from a collection that contains the desired knife.
 
 For example, if a knife can be found in both the Gamma Case Collection and the Operation Hydra Collection, you can only use Covert items from those two collections. That is exactly what this program does:
